@@ -1,0 +1,12 @@
+INDEX VERSION 1.4+/home/wolf/MinhasFormacoes/FormacaoSpringAlura/O1_Servlet/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1638289820.index
+3600166142.index
+2170972029.index
+2490101065.index
+1273774494.index
+4162847326.index
+1326135896.index
+2727339179.index
+3582514237.index
+1223573623.index
+1022062856.index

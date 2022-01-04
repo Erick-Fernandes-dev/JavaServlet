@@ -1,0 +1,13 @@
+127.0.0.1 - - [21/Dec/2021:22:40:24 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Dec/2021:22:40:25 -0300] "GET /gerenciador_2/novaEmpresaCriada.jsp HTTP/1.1" 200 177
+0:0:0:0:0:0:0:1 - - [21/Dec/2021:22:40:56 -0300] "GET /gerenciador_2/formNovaEmpresa.html HTTP/1.1" 200 197
+0:0:0:0:0:0:0:1 - - [21/Dec/2021:22:40:56 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [21/Dec/2021:22:41:22 -0300] "GET /gerenciador_2/formNovaEmpresa.html HTTP/1.1" 200 197
+0:0:0:0:0:0:0:1 - - [21/Dec/2021:22:41:31 -0300] "POST /gerenciador_2/novaEmpresa HTTP/1.1" 200 179
+0:0:0:0:0:0:0:1 - - [21/Dec/2021:22:41:45 -0300] "GET /gerenciador_2/listaEmpresas HTTP/1.1" 404 794
+0:0:0:0:0:0:0:1 - - [21/Dec/2021:22:42:15 -0300] "GET /gerenciador_2/listaEmpresa HTTP/1.1" 200 294
+0:0:0:0:0:0:0:1 - - [21/Dec/2021:22:44:20 -0300] "GET /gerenciador_2/listaEmpresa HTTP/1.1" 200 316
+127.0.0.1 - - [21/Dec/2021:23:26:22 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/Dec/2021:23:26:24 -0300] "GET /gerenciador_3/novaEmpresaCriada.jsp HTTP/1.1" 200 167
+0:0:0:0:0:0:0:1 - - [21/Dec/2021:23:26:51 -0300] "GET /gerenciador_3/formNovaEmpresa.html HTTP/1.1" 200 197
+0:0:0:0:0:0:0:1 - - [21/Dec/2021:23:26:57 -0300] "POST /gerenciador_2/novaEmpresa HTTP/1.1" 200 179

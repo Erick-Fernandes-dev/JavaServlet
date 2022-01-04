@@ -1,0 +1,12 @@
+127.0.0.1 - - [10/Dec/2021:00:02:57 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:00:02:58 -0300] "GET /gerenciador/novaEmpresa HTTP/1.1" 200 62
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:00:03:28 -0300] "GET /gerenciador/novaEmpresa HTTP/1.1" 200 62
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:00:03:28 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:00:03:51 -0300] "GET /gerenciador/novaEmpresa?nome=Algnologia HTTP/1.1" 200 68
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:00:06:40 -0300] "GET /gerenciador/formNovaEmpresa.html HTTP/1.1" 200 258
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:00:06:48 -0300] "POST /gerenciador/gerenciador/novaEmpresa HTTP/1.1" 404 806
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:00:07:29 -0300] "GET /gerenciador/formNovaEmpresa.html HTTP/1.1" 200 247
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:00:07:33 -0300] "POST /novaEmpresa HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:00:08:09 -0300] "POST /novaEmpresa HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:00:08:12 -0300] "GET /gerenciador/formNovaEmpresa.html HTTP/1.1" 200 259
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:00:08:16 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 200 68

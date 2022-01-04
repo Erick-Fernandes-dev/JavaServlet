@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+/home/wolf/MinhasFormacoes/FormacaoSpringAlura/O1_Servlet/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2490101065.index
+/gerenciador_3/src/main/java
+/home/wolf/MinhasFormacoes/FormacaoSpringAlura/O1_Servlet/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1376052430.index
+/gerenciador_5/src/main/java
+/home/wolf/MinhasFormacoes/FormacaoSpringAlura/O1_Servlet/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2662261840.index
+/gerenciador_4/src/main/java
+/home/wolf/MinhasFormacoes/FormacaoSpringAlura/O1_Servlet/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1489104343.index
+/gerenciador_2/src/main/java

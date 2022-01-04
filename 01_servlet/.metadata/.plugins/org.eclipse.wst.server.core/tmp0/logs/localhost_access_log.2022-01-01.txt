@@ -1,0 +1,12 @@
+127.0.0.1 - - [01/Jan/2022:19:58:13 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:19:58:30 -0300] "GET /gerenciador_4/novaEmpresa HTTP/1.1" 405 751
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:19:59:58 -0300] "GET /gerenciador_4/formNovaEmpresas.jsp HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:19:59:59 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:20:00:21 -0300] "GET /gerenciador_4/formNovaEmpresa.jsp HTTP/1.1" 200 298
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:20:00:28 -0300] "POST /gerenciador_4/novaEmpresa;jsessionid=1D482ADC3729D86496F2277242F4B5BB HTTP/1.1" 200 443
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:20:00:33 -0300] "POST /gerenciador_4/novaEmpresa;jsessionid=1D482ADC3729D86496F2277242F4B5BB HTTP/1.1" 200 494
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:20:04:40 -0300] "POST /gerenciador_4/novaEmpresa;jsessionid=1D482ADC3729D86496F2277242F4B5BB HTTP/1.1" 404 753
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:20:05:15 -0300] "POST /gerenciador_4/novaEmpresa;jsessionid=1D482ADC3729D86496F2277242F4B5BB HTTP/1.1" 404 753
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:20:05:53 -0300] "POST /gerenciador_4/novaEmpresa;jsessionid=1D482ADC3729D86496F2277242F4B5BB HTTP/1.1" 404 753
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:20:06:32 -0300] "GET /gerenciador_4/formNovaEmpresa.jsp HTTP/1.1" 200 254
+0:0:0:0:0:0:0:1 - - [01/Jan/2022:20:06:36 -0300] "POST /gerenciador_4/novaEmpresa HTTP/1.1" 200 240
